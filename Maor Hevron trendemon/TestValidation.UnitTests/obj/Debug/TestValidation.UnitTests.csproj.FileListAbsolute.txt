@@ -1,0 +1,7 @@
+C:\Users\maorh\OneDrive\מסמכים\Visual Studio 2010\Projects\Maor Hevron trendemon\TestValidation.UnitTests\bin\Debug\TestValidation.UnitTests.dll
+C:\Users\maorh\OneDrive\מסמכים\Visual Studio 2010\Projects\Maor Hevron trendemon\TestValidation.UnitTests\bin\Debug\TestValidation.UnitTests.pdb
+C:\Users\maorh\OneDrive\מסמכים\Visual Studio 2010\Projects\Maor Hevron trendemon\TestValidation.UnitTests\bin\Debug\Maor Hevron trendemon.exe
+C:\Users\maorh\OneDrive\מסמכים\Visual Studio 2010\Projects\Maor Hevron trendemon\TestValidation.UnitTests\bin\Debug\Maor Hevron trendemon.pdb
+C:\Users\maorh\OneDrive\מסמכים\Visual Studio 2010\Projects\Maor Hevron trendemon\TestValidation.UnitTests\obj\Debug\TestValidation.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\maorh\OneDrive\מסמכים\Visual Studio 2010\Projects\Maor Hevron trendemon\TestValidation.UnitTests\obj\Debug\TestValidation.UnitTests.dll
+C:\Users\maorh\OneDrive\מסמכים\Visual Studio 2010\Projects\Maor Hevron trendemon\TestValidation.UnitTests\obj\Debug\TestValidation.UnitTests.pdb

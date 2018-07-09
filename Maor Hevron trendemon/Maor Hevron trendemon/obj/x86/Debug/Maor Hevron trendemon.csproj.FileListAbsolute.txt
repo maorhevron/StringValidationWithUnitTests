@@ -1,0 +1,5 @@
+c:\users\maorh\onedrive\מסמכים\visual studio 2010\Projects\Maor Hevron trendemon\Maor Hevron trendemon\bin\Debug\Maor Hevron trendemon.exe
+c:\users\maorh\onedrive\מסמכים\visual studio 2010\Projects\Maor Hevron trendemon\Maor Hevron trendemon\bin\Debug\Maor Hevron trendemon.pdb
+c:\users\maorh\onedrive\מסמכים\visual studio 2010\Projects\Maor Hevron trendemon\Maor Hevron trendemon\obj\x86\Debug\Maor Hevron trendemon.exe
+c:\users\maorh\onedrive\מסמכים\visual studio 2010\Projects\Maor Hevron trendemon\Maor Hevron trendemon\obj\x86\Debug\Maor Hevron trendemon.pdb
+C:\Users\maorh\OneDrive\מסמכים\Visual Studio 2010\Projects\Maor Hevron trendemon\Maor Hevron trendemon\obj\x86\Debug\Maor Hevron trendemon.csprojResolveAssemblyReference.cache

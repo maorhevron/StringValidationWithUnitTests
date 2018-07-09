@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="aa4b2fbe-3d1c-4973-a4b9-f1b2e9fa8440" name="maorh@DESKTOP-01DECST 2018-07-09 17:27:29" runUser="DESKTOP-01DECST\maorh" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="5cf60936-1a15-4e82-b2d8-12c0786950d3">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="maorh_DESKTOP-01DECST 2018-07-09 17_27_29">
+      <DeploymentItem filename="C:\Users\maorh\OneDrive\מסמכים\Visual Studio 2010\Projects\Maor Hevron trendemon\Maor Hevron trendemon\bin\Debug\Maor Hevron trendemon.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2018-07-09T17:27:29.5165271+03:00" queuing="2018-07-09T17:27:29.5782305+03:00" start="2018-07-09T17:27:29.5826946+03:00" finish="2018-07-09T17:27:29.8366472+03:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="StringValidation_ExpectedBehavior" storage="c:\users\maorh\onedrive\מסמכים\visual studio 2010\projects\maor hevron trendemon\testvalidation.unittests\bin\debug\testvalidation.unittests.dll" id="a77d7b26-8b81-ec6f-9283-8322ebf4a8f9">
+      <Execution id="73445ca9-ba70-45d4-b6e9-5310cf536fc6" />
+      <TestMethod codeBase="C:/Users/maorh/OneDrive/מסמכים/Visual Studio 2010/Projects/Maor Hevron trendemon/TestValidation.UnitTests/bin/Debug/TestValidation.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestValidation.UnitTests.ValidationTests, TestValidation.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="StringValidation_ExpectedBehavior" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="a77d7b26-8b81-ec6f-9283-8322ebf4a8f9" executionId="73445ca9-ba70-45d4-b6e9-5310cf536fc6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="73445ca9-ba70-45d4-b6e9-5310cf536fc6" testId="a77d7b26-8b81-ec6f-9283-8322ebf4a8f9" testName="StringValidation_ExpectedBehavior" computerName="DESKTOP-01DECST" duration="00:00:00.0115023" startTime="2018-07-09T17:27:29.5856710+03:00" endTime="2018-07-09T17:27:29.8257718+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="73445ca9-ba70-45d4-b6e9-5310cf536fc6">
+    </UnitTestResult>
+  </Results>
+</TestRun>
